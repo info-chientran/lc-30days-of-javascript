@@ -1,5 +1,9 @@
-const createHelloWorld = () => {
-    return (...args) => {
-        return "Hello World";
-    }
+/**
+ * @param {number} n
+ * @return {Function} counter
+ */
+const createCounter = (n) => {
+    return () => {
+        return n++;
+    };
 };
