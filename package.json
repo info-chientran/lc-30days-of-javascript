@@ -1,0 +1,26 @@
+{
+    "name": "lc-30days-of-javascript",
+    "version": "1.0.0",
+    "description": "study javascript",
+    "main": "index.js",
+    "scripts": {
+        "lint": "prettier . --write",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/info-chientran/lc-30days-of-javascript.git"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "Chooi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/info-chientran/lc-30days-of-javascript/issues"
+    },
+    "homepage": "https://github.com/info-chientran/lc-30days-of-javascript#readme",
+    "devDependencies": {
+        "prettier": "3.5.3"
+    }
+}
