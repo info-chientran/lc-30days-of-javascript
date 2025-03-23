@@ -15,3 +15,5 @@
 - [x] Day 5: [2635. Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) - [Solution](https://github.com/info-chientran/lc-30days-of-javascript/blob/master/day5/index.js)
 
 - [x] Day 6: [2634. Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) - [Solution](https://github.com/info-chientran/lc-30days-of-javascript/blob/master/day6/index.js)
+
+- [x] Day 7: [2634. Filter Elements from Array](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript) - [Solution](https://github.com/info-chientran/lc-30days-of-javascript/blob/master/day7/index.js)
